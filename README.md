@@ -1,2 +1,2 @@
 # Clone-Grep-Command-With-C
-In this project, create grepFile function like grep command in linux. This project was written for System Programming lecture.
+In this project, create grepFile function like grep command in linux. With the grepFile command to be created, the searched words will be found in the scanned file and the lines on which they are will be printed to the output file. The number of times this word is repeated in the relevant file will be displayed in the terminal. This project was written for System Programming lecture.
