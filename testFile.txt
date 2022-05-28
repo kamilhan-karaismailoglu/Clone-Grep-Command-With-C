@@ -1,0 +1,3 @@
+Bu metin içinde lorem kelimesi aranacak
+ve kelimenin bulunduğu satır numarası output dosyasına yazılacak
+lorem
